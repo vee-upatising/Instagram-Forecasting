@@ -8,4 +8,4 @@ Analyzing my Instagram usage from 2012 - 2020
 ![fb](https://raw.githubusercontent.com/vee-upatising/Instagram-Forecasting/master/fbprophet1.JPG)
 ![fb](https://raw.githubusercontent.com/vee-upatising/Instagram-Forecasting/master/fbprophet2.JPG)
 
-# [View Jupyter Notebook](https://raw.githubusercontent.com/vee-upatising/Instagram-Forecasting/master/instalikes.JPG)
+# [View Jupyter Notebook](https://nbviewer.jupyter.org/github/vee-upatising/Instagram-Forecasting/blob/master/Instagram.ipynb)
