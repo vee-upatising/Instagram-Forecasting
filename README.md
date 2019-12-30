@@ -1,7 +1,7 @@
 # Instagram-Forecasting
 Analyzing my Instagram usage from 2012 - 2020
 
-# Top 10 Accounts I consumed the most content from
+# Accounts I Consumed The Most Content From
 ![Likes](https://raw.githubusercontent.com/vee-upatising/Instagram-Forecasting/master/instalikes.JPG)
 
 # Forecasting
